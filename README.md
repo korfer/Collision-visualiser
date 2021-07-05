@@ -1,3 +1,4 @@
 # Collision-visualiser
 PyGame small programm to visualise shooting at a given angle in object moving from point A to point B
-\n Also: Machine learning model to predict projectile angle given that some parameters like spawn of: thief, turrel, chest or speed is random
+
+Also: Machine learning model to predict projectile angle given that some parameters like spawn of: thief, turrel, chest or speed is random
